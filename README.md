@@ -90,7 +90,8 @@ Revenue forecasting was performed using Linear Trend Projection with NumPy.
 
 The time-series model is defined as:
 
-```Sales = a*t + b
+```
+Sales = a*t + b
 ```
 
 Where:
