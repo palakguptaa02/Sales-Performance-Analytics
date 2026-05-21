@@ -99,6 +99,10 @@ Dashboard Features:
 - Sales visualization
 - Category and regional performance comparison
 
+  # 📊 Dashboard Preview
+
+![Sales Dashboard](sales_dashboard.png)
+
 🔍 Key Insights
 
 - West region generated the highest revenue contribution.
